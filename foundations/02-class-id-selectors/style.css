@@ -1,0 +1,19 @@
+.class-text {
+    background-color: rgb(255, 153, 153);
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+
+.class-text2 {
+    font-size: 24px;
+}
+
+#id-text {
+    color: rgb(0, 153, 255);
+    font-size: 36px;
+}
+
+#id-text2 {
+    font-weight: bold;
+    background-color: rgb(102, 255, 153);
+    font-size: 24px;
+}
